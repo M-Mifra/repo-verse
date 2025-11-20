@@ -34,7 +34,7 @@ jobs:
         run: npm ci
 
       - name: Generate Universe SVG
-        run: npx tsx scripts/generate.ts ${{ github.event.inputs.username || 'torvalds' }}
+        run: npx tsx scripts/generate.ts ${{ github.event.inputs.username || github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
