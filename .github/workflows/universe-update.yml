@@ -2,8 +2,8 @@ name: Update Universe
 
 on:
   schedule:
-    # Run every 12 hours
-    - cron: '0 */12 * * *'
+    # Run every 24 hours
+    - cron: '0 3 * * *'
   workflow_dispatch:
     inputs:
       username:
