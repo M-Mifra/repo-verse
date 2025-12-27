@@ -26,6 +26,23 @@ RepoVerse is a cosmic engine that visualizes your code repositories as planets o
 
 *Replace `YOUR_USERNAME` with your GitHub username.*
 
+### Alternative Views
+
+**Cityscape (Neon/Cyberpunk):**
+```markdown
+![My Code City](https://raw.githubusercontent.com/YOUR_USERNAME/repo-verse/main/public/cityscape.svg)
+```
+
+**Modern Banner (Compact):**
+```markdown
+![My Repos](https://raw.githubusercontent.com/YOUR_USERNAME/repo-verse/main/public/modern.svg)
+```
+
+**Universe 3D (Solar System):**
+```markdown
+![My Universe](https://raw.githubusercontent.com/YOUR_USERNAME/repo-verse/main/public/universe-3d.svg)
+```
+
 ## Configuration
 
 The workflow runs automatically every 12 hours.

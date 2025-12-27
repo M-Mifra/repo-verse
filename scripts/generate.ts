@@ -5,6 +5,7 @@ import { generateUniverse } from "../src/lib/planet-generator";
 import { generateUniverseSVG } from "../src/lib/svg-generator";
 import { generateUniverse3DSVG } from "../src/lib/svg-3d-generator";
 import { generateCityscapeSVG } from "../src/lib/cityscape-generator";
+import { generateModernSVG } from "../src/lib/modern-generator";
 
 
 async function main() {
@@ -39,6 +40,11 @@ async function main() {
         const outputPathCity = path.join(process.cwd(), "public", "cityscape.svg");
         fs.writeFileSync(outputPathCity, cityscape);
         console.log(`Cityscape SVG saved to ${outputPathCity}`);
+
+        const modern = generateModernSVG(user, planets);
+        const outputPathModern = path.join(process.cwd(), "public", "modern.svg");
+        fs.writeFileSync(outputPathModern, modern);
+        console.log(`Modern SVG saved to ${outputPathModern}`);
 
     } catch (error) {
         console.error("Failed to generate universe:", error);
