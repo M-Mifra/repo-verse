@@ -34,11 +34,15 @@ RepoVerse is a cosmic engine that visualizes your code repositories as planets o
 ```
 
 **Modern Banner (Compact):**
+<img src="./public/modern.svg" width="400" alt="Modern View" />
+
 ```markdown
 ![My Repos](https://raw.githubusercontent.com/YOUR_USERNAME/repo-verse/main/public/modern.svg)
 ```
 
 **Universe 3D (Solar System):**
+<img src="./public/universe-3d.svg" width="400" alt="3D Universe" />
+
 ```markdown
 ![My Universe](https://raw.githubusercontent.com/YOUR_USERNAME/repo-verse/main/public/universe-3d.svg)
 ```
