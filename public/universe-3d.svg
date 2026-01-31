@@ -37,20 +37,20 @@
     <circle cx="400" cy="300" r="40" fill="url(#sunGradient3D)">
       <animate attributeName="r" values="40;42;40" dur="4s" repeatCount="indefinite" />
     </circle>
-    <image href="https://avatars.githubusercontent.com/u/191676132?v=4" xlink:href="https://avatars.githubusercontent.com/u/191676132?v=4" x="360" y="260" height="80" width="80" clip-path="url(#sunClip3D)" opacity="0.8" />
+    <image href="https://avatars.githubusercontent.com/u/1024025?v=4" xlink:href="https://avatars.githubusercontent.com/u/1024025?v=4" x="360" y="260" height="80" width="80" clip-path="url(#sunClip3D)" opacity="0.8" />
   </g>
   
   <!-- User Name -->
-  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" opacity="0.8">Nimal Danyath K</text>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" opacity="0.8">Linus Torvalds</text>
 
   <!-- Planets (3D Orbits) -->
   
-      <!-- Planet: repo-verse -->
+      <!-- Planet: linux -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-0" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -98,15 +98,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/repo-verse" target="_blank" style="cursor: pointer;">
-                <circle r="36.94692271448362" fill="url(#planetGrad3D-0)">
-                    <title>repo-verse (TypeScript)</title>
+            <a href="https://github.com/torvalds/linux" target="_blank" style="cursor: pointer;">
+                <circle r="60" fill="url(#planetGrad3D-0)">
+                    <title>linux (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="36.94692271448362" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="60" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="108" ry="30" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -114,7 +116,7 @@
       </g>
     
 
-      <!-- Planet: Semicolon-Embedded-C-Project -->
+      <!-- Planet: AudioNoise -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
@@ -167,15 +169,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/Semicolon-Embedded-C-Project" target="_blank" style="cursor: pointer;">
-                <circle r="36.49150467587961" fill="url(#planetGrad3D-1)">
-                    <title>Semicolon-Embedded-C-Project (C)</title>
+            <a href="https://github.com/torvalds/AudioNoise" target="_blank" style="cursor: pointer;">
+                <circle r="41.781567794269556" fill="url(#planetGrad3D-1)">
+                    <title>AudioNoise (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="36.49150467587961" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="41.781567794269556" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="75.2068220296852" ry="20.890783897134778" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -183,12 +187,12 @@
       </g>
     
 
-      <!-- Planet: sparkd -->
+      <!-- Planet: uemacs -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
-            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -236,15 +240,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/sparkd" target="_blank" style="cursor: pointer;">
-                <circle r="42.56395394059772" fill="url(#planetGrad3D-2)">
-                    <title>sparkd (JavaScript)</title>
+            <a href="https://github.com/torvalds/uemacs" target="_blank" style="cursor: pointer;">
+                <circle r="38.66177051029922" fill="url(#planetGrad3D-2)">
+                    <title>uemacs (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="42.56395394059772" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="38.66177051029922" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="69.5911869185386" ry="19.33088525514961" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -252,12 +258,12 @@
       </g>
     
 
-      <!-- Planet: TheInspirationalBoat -->
+      <!-- Planet: GuitarPedal -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#E34F26" stop-opacity="1" />
-            <stop offset="50%" stop-color="#E34F26" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -305,15 +311,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/TheInspirationalBoat" target="_blank" style="cursor: pointer;">
-                <circle r="51.28464824441333" fill="url(#planetGrad3D-3)">
-                    <title>TheInspirationalBoat (HTML)</title>
+            <a href="https://github.com/torvalds/GuitarPedal" target="_blank" style="cursor: pointer;">
+                <circle r="45.19387731047762" fill="url(#planetGrad3D-3)">
+                    <title>GuitarPedal (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="51.28464824441333" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
+                <circle r="45.19387731047762" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="81.34897915885972" ry="22.59693865523881" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -321,12 +329,12 @@
       </g>
     
 
-      <!-- Planet: Discrete_Mathematics_Algorithms -->
+      <!-- Planet: test-tlb -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -374,15 +382,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/Discrete_Mathematics_Algorithms" target="_blank" style="cursor: pointer;">
-                <circle r="25.83773044716594" fill="url(#planetGrad3D-4)">
-                    <title>Discrete_Mathematics_Algorithms (Python)</title>
+            <a href="https://github.com/torvalds/test-tlb" target="_blank" style="cursor: pointer;">
+                <circle r="28.83331693749932" fill="url(#planetGrad3D-4)">
+                    <title>test-tlb (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="25.83773044716594" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
+                <circle r="28.83331693749932" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="51.89997048749878" ry="14.41665846874966" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -390,7 +400,7 @@
       </g>
     
 
-      <!-- Planet: Linear_Algebra_Matlab -->
+      <!-- Planet: pesconvert -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-5" cx="30%" cy="30%" r="70%">
@@ -443,15 +453,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/Linear_Algebra_Matlab" target="_blank" style="cursor: pointer;">
-                <circle r="46.89945133719329" fill="url(#planetGrad3D-5)">
-                    <title>Linear_Algebra_Matlab (MATLAB)</title>
+            <a href="https://github.com/torvalds/pesconvert" target="_blank" style="cursor: pointer;">
+                <circle r="28.49964003216865" fill="url(#planetGrad3D-5)">
+                    <title>pesconvert (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="46.89945133719329" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
+                <circle r="28.49964003216865" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="51.29935205790357" ry="14.249820016084325" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -459,7 +471,7 @@
       </g>
     
 
-      <!-- Planet: nimaldanyathk -->
+      <!-- Planet: 1590A -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-6" cx="30%" cy="30%" r="70%">
@@ -512,13 +524,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/nimaldanyathk" target="_blank" style="cursor: pointer;">
-                <circle r="46.25394874032037" fill="url(#planetGrad3D-6)">
-                    <title>nimaldanyathk (null)</title>
+            <a href="https://github.com/torvalds/1590A" target="_blank" style="cursor: pointer;">
+                <circle r="47.884595981137615" fill="url(#planetGrad3D-6)">
+                    <title>1590A (OpenSCAD)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="46.25394874032037" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="47.884595981137615" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -528,7 +540,7 @@
       </g>
     
 
-      <!-- Planet: E-HealthCare-Management-System -->
+      <!-- Planet: subsurface-for-dirk -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-7" cx="30%" cy="30%" r="70%">
@@ -581,15 +593,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/E-HealthCare-Management-System" target="_blank" style="cursor: pointer;">
-                <circle r="42.339755297473175" fill="url(#planetGrad3D-7)">
-                    <title>E-HealthCare-Management-System (null)</title>
+            <a href="https://github.com/torvalds/subsurface-for-dirk" target="_blank" style="cursor: pointer;">
+                <circle r="55.86005668793387" fill="url(#planetGrad3D-7)">
+                    <title>subsurface-for-dirk (C++)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="42.339755297473175" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
+                <circle r="55.86005668793387" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="100.54810203828097" ry="27.930028343966935" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -597,7 +611,7 @@
       </g>
     
 
-      <!-- Planet: react-bits -->
+      <!-- Planet: libdc-for-dirk -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-8" cx="30%" cy="30%" r="70%">
@@ -650,15 +664,17 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/react-bits" target="_blank" style="cursor: pointer;">
-                <circle r="50.41211960114672" fill="url(#planetGrad3D-8)">
-                    <title>react-bits (null)</title>
+            <a href="https://github.com/torvalds/libdc-for-dirk" target="_blank" style="cursor: pointer;">
+                <circle r="44.68292812371329" fill="url(#planetGrad3D-8)">
+                    <title>libdc-for-dirk (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="50.41211960114672" fill="none" stroke="#FF4500" stroke-width="2" opacity="0.3" />
+                <circle r="44.68292812371329" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
+                
+                  <ellipse rx="80.42927062268392" ry="22.341464061856644" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -666,12 +682,12 @@
       </g>
     
 
-      <!-- Planet: brAIn -->
+      <!-- Planet: libgit2 -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-9" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
-            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
+            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -719,13 +735,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/nimaldanyathk/brAIn" target="_blank" style="cursor: pointer;">
-                <circle r="38.15626750677325" fill="url(#planetGrad3D-9)">
-                    <title>brAIn (TypeScript)</title>
+            <a href="https://github.com/torvalds/libgit2" target="_blank" style="cursor: pointer;">
+                <circle r="53.141602005348" fill="url(#planetGrad3D-9)">
+                    <title>libgit2 (C)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="38.15626750677325" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
+                <circle r="53.141602005348" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -740,10 +756,10 @@
   
       <g opacity="0">
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 6</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 284kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> linux</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 215846</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 5928264kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -751,10 +767,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Semicolon-Embedded-C-Project</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 6</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 244kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> AudioNoise</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 4155</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 1423kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -762,10 +778,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> sparkd</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 5</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 1847kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> uemacs</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 1854</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 503kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -773,10 +789,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> TheInspirationalBoat</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: HTML | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 33800kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> GuitarPedal</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 1715</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 4438kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="12s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -784,10 +800,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Discrete_Mathematics_Algorithms</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 7kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> test-tlb</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 936</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 19kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -795,10 +811,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> Linear_Algebra_Matlab</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: MATLAB | STARS: 2</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 7836kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> pesconvert</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 545</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 17kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="20s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -806,10 +822,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> nimaldanyathk</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 6319kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 1590A</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: OpenSCAD | STARS: 539</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 10882kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="24s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -817,10 +833,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> E-HealthCare-Management-System</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 1714kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> subsurface-for-dirk</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C++ | STARS: 434</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 155337kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -828,10 +844,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FF4500" font-family="Courier New, monospace" font-size="16" font-weight="bold">> react-bits</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 1</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: STRESSED | SIZE: 25270kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FF4500">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> libdc-for-dirk</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 373</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 3743kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -839,10 +855,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> brAIn</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 425kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
+        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> libgit2</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 332</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 62768kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
             <animate attributeName="width" values="0;200" begin="36s" dur="4s" fill="freeze" />
         </rect>
       </g>
