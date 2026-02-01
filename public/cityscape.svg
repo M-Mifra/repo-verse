@@ -74,7 +74,7 @@
   <rect width="100%" height="100%" fill="url(#skyGradient)" />
   
   <!-- Stars -->
-  <circle cx="710.2350734254896" cy="308.4282349492427" r="0.013948600591797145" fill="white" opacity="0.03199396329435977"/><circle cx="741.1138443183698" cy="248.50955492198065" r="0.7265487581331745" fill="white" opacity="0.48709556086851213"/><circle cx="253.69923948621926" cy="72.799964270497" r="0.6693685172398011" fill="white" opacity="0.39239897092487785"/><circle cx="616.5057014692419" cy="72.82410224183006" r="0.3602880472218254" fill="white" opacity="0.5716977850221301"/><circle cx="698.15258395256" cy="39.474190960361376" r="1.2436121268682905" fill="white" opacity="0.5048947676197899"/><circle cx="267.9187777527893" cy="120.75006742700103" r="1.2750237914642628" fill="white" opacity="0.8457637227929526"/><circle cx="29.749778140476835" cy="180.6460183308506" r="1.449725835543325" fill="white" opacity="0.8911572188303352"/><circle cx="691.0078817378794" cy="13.43890529727501" r="0.9195153027524845" fill="white" opacity="0.06755024388796049"/><circle cx="231.24444646969522" cy="121.24305968368995" r="0.9379806070560949" fill="white" opacity="0.6815114432623439"/><circle cx="554.153608983618" cy="313.69982603391105" r="0.032359675337608196" fill="white" opacity="0.007430059573590997"/><circle cx="38.91611400649282" cy="174.05130939731106" r="1.4586411523055118" fill="white" opacity="0.6745407803007739"/><circle cx="48.48426426221941" cy="30.922252783805266" r="0.08803333351769405" fill="white" opacity="0.5429814541637163"/><circle cx="575.0821337104828" cy="27.341199595274524" r="1.4234836099598605" fill="white" opacity="0.5970261158011236"/><circle cx="274.3636361988022" cy="299.3789481327741" r="1.2268192150932005" fill="white" opacity="0.08159817075527265"/><circle cx="681.6627620291937" cy="78.57404593471655" r="0.9133843412457148" fill="white" opacity="0.6433475057412124"/><circle cx="555.2476461944842" cy="249.93105310578412" r="1.335340063050911" fill="white" opacity="0.3336349759308175"/><circle cx="83.06204531230463" cy="331.95545083983035" r="0.30426670992673843" fill="white" opacity="0.06693956943062074"/><circle cx="66.45710153291643" cy="20.792271498209036" r="1.0115008441537954" fill="white" opacity="0.7724160439491119"/><circle cx="717.7704381579929" cy="109.5784276344662" r="0.7952138520473432" fill="white" opacity="0.5587466085874624"/><circle cx="216.82065049625515" cy="113.7405797626991" r="0.8573871607622838" fill="white" opacity="0.662532260251862"/><circle cx="283.55287367719944" cy="272.67286197878474" r="0.8739854794352744" fill="white" opacity="0.4986354314772712"/><circle cx="521.6873453919421" cy="206.04005654135662" r="0.8370877019992027" fill="white" opacity="0.1385764177560529"/><circle cx="751.843773273921" cy="155.29791670966628" r="0.6541238920924703" fill="white" opacity="0.6179579049321073"/><circle cx="392.46392698220893" cy="56.1443753269712" r="1.479896602398827" fill="white" opacity="0.0797337065822521"/><circle cx="132.52246475394233" cy="251.60024144251628" r="0.8112945689029745" fill="white" opacity="0.9365403462969295"/><circle cx="78.92336732229275" cy="10.209300515052018" r="1.2434627634038429" fill="white" opacity="0.3791926737895934"/><circle cx="80.86144207774808" cy="170.84607150474548" r="0.500907399142648" fill="white" opacity="0.5138556582632186"/><circle cx="781.3540626202449" cy="63.029608727268794" r="0.026770917439060904" fill="white" opacity="0.9311909406114909"/><circle cx="157.4206205735484" cy="108.87895636026636" r="0.9611934100808437" fill="white" opacity="0.3576765675148297"/><circle cx="245.16741705591568" cy="85.63401432811463" r="0.29358141162399254" fill="white" opacity="0.5476269139011736"/>
+  <circle cx="613.9121919084248" cy="118.20927476878794" r="0.34646123696535136" fill="white" opacity="0.380897886434423"/><circle cx="204.4030293051389" cy="36.30085473984194" r="0.4374032147134722" fill="white" opacity="0.31895041596860074"/><circle cx="262.41076326760503" cy="99.3822070331726" r="1.3997227519473225" fill="white" opacity="0.05703135152160255"/><circle cx="163.40778626240055" cy="189.99454341930252" r="0.8637485729215274" fill="white" opacity="0.7488417233229145"/><circle cx="479.34949015260725" cy="44.03316986960732" r="1.0716580493422727" fill="white" opacity="0.37945518295083125"/><circle cx="568.2187445732596" cy="120.63050529450834" r="0.17507278778733015" fill="white" opacity="0.8659668665372049"/><circle cx="514.1871828052672" cy="193.31113552144478" r="0.45758457008896003" fill="white" opacity="0.8981148165287518"/><circle cx="30.413115877047403" cy="155.4663496043001" r="0.3414177355215827" fill="white" opacity="0.9560747891818449"/><circle cx="626.6265891502516" cy="36.95912998970572" r="1.1848320539439399" fill="white" opacity="0.2645247670764328"/><circle cx="654.3984744376385" cy="162.63228381571344" r="0.5338010744862555" fill="white" opacity="0.6513400739104283"/><circle cx="540.5145948093189" cy="289.76941537979053" r="1.0826030109770863" fill="white" opacity="0.42940844368559716"/><circle cx="570.709456338942" cy="51.69852726159846" r="1.4523871059547289" fill="white" opacity="0.3954782142005364"/><circle cx="217.1614496449898" cy="267.4227884727469" r="0.8404516793468343" fill="white" opacity="0.44095650392352903"/><circle cx="334.291036968367" cy="285.93819312328657" r="0.9022046721088454" fill="white" opacity="0.025555769051394117"/><circle cx="53.14670147303371" cy="285.5137193317023" r="0.44636277910940747" fill="white" opacity="0.08615691269356907"/><circle cx="628.0844281878798" cy="87.97872490191332" r="0.44505514036460125" fill="white" opacity="0.08063654683140586"/><circle cx="393.03362495714237" cy="94.71322654139446" r="0.6816446707528993" fill="white" opacity="0.4945304736430802"/><circle cx="772.256373548899" cy="344.3105144771336" r="0.9177806894875844" fill="white" opacity="0.7531979869309178"/><circle cx="214.98099294398293" cy="80.42759251838447" r="1.2537028771261403" fill="white" opacity="0.9611057167877013"/><circle cx="411.71509037336523" cy="235.33769805628407" r="1.2350583603951504" fill="white" opacity="0.4948846153594575"/><circle cx="545.6469546588314" cy="227.6630449346877" r="1.0203236872545054" fill="white" opacity="0.5043245027140659"/><circle cx="482.1195324866183" cy="117.48312740726892" r="1.3491036034773172" fill="white" opacity="0.7747126165337532"/><circle cx="211.55342007810117" cy="350.49684710544847" r="1.4872418544512107" fill="white" opacity="0.29692176400479764"/><circle cx="727.1666859751367" cy="32.13173519399451" r="1.0366695475659475" fill="white" opacity="0.015859798634888955"/><circle cx="488.8766439911249" cy="344.7721521548971" r="1.058322584563871" fill="white" opacity="0.4711360005484684"/><circle cx="159.98668640523962" cy="270.4391332516466" r="0.06369995626260194" fill="white" opacity="0.2754420694325055"/><circle cx="275.5878524567775" cy="156.46987918175154" r="0.5868781195240279" fill="white" opacity="0.5063275745847802"/><circle cx="156.97763843399386" cy="67.13374370433971" r="0.9893899634713235" fill="white" opacity="0.09365040837919669"/><circle cx="606.0826773994854" cy="270.75904746635746" r="0.9895355097935162" fill="white" opacity="0.49862660086105337"/><circle cx="259.62739151482185" cy="136.45480028398748" r="1.0414471353630805" fill="white" opacity="0.08023867208929669"/>
 
   <!-- Perspective Floor Grid (Simulated) -->
   <g transform="translate(0, 300) scale(1, 0.5)">
@@ -86,319 +86,269 @@
 
   <!-- City Label / Branding -->
   <g transform="translate(40, 60)">
-      <text fill="cyan" font-family="Verdana, sans-serif" font-size="28" font-weight="900" style="text-shadow: 0 0 10px cyan;">LINUS TORVALDS CITY</text>
-      <text y="25" fill="#ff00cc" font-family="Courier New, monospace" font-size="14" font-weight="bold" letter-spacing="2">POP: 281782 // BLOCKS: 11</text>
+      <text fill="cyan" font-family="Verdana, sans-serif" font-size="28" font-weight="900" style="text-shadow: 0 0 10px cyan;">M MIFRA CITY</text>
+      <text y="25" fill="#ff00cc" font-family="Courier New, monospace" font-size="14" font-weight="bold" letter-spacing="2">POP: 0 // BLOCKS: 20</text>
   </g>
 
   <!-- The Buildings -->
   <g transform="translate(0, 50)"> 
     
-            <a href="https://github.com/torvalds/linux" target="_blank">
+            <a href="https://github.com/M-Mifra/M-Mifra" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="400" cy="292.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="400" cy="289.1358333333333" rx="11.4075" ry="6.0840000000000005" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 385 -7.166666666666686 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 415 -7.166666666666686 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 400 -14.666666666666686 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 392.395 269.1358333333333 l 0 20 l 7.605 3.8025 l 0 -20 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 407.605 269.1358333333333 l 0 20 l -7.605 3.8025 l 0 -20 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 400 265.3333333333333 l 7.605 3.8025 l -7.605 3.8025 l -7.605 -3.8025 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 385 -7.166666666666686 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 415 -7.166666666666686 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 392.395 269.1358333333333 l 0 20 l 7.605 3.8025 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 407.605 269.1358333333333 l 0 20 l -7.605 3.8025 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 404 277.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 267.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 269.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 247.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 249.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 237.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 239.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 227.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 229.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 217.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 219.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 197.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 199.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 187.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 189.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 179.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 167.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 169.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 157.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 159.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 147.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 149.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 137.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 139.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 129.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 117.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 119.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 389 109.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 97.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 89.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 77.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 67.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 69.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 57.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 47.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 37.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 39.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 27.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 29.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 17.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 19.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 7.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 389 9.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 -2.6666666666666856 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" />
                      
-                <line x1="400" y1="-14.666666666666686" x2="400" y2="-34.666666666666686" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="400" cy="-34.666666666666686" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.905962052807432s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>linux (C) | Stars: 215846</title>
+                     <title>M-Mifra (null) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/AudioNoise" target="_blank">
+            <a href="https://github.com/M-Mifra/andropedia-weekly-chronicle" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.05s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="424" cy="304.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="424" cy="303.9708333333333" rx="19.9125" ry="10.620000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 409 4.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 439 4.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 424 -2.6666666666666856 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 410.725 283.9708333333333 l 0 20 l 13.275 6.6375 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 437.275 283.9708333333333 l 0 20 l -13.275 6.6375 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 424 277.3333333333333 l 13.275 6.6375 l -13.275 6.6375 l -13.275 -6.6375 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 409 4.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 439 4.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 410.725 283.9708333333333 l 0 20 l 13.275 6.6375 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 437.275 283.9708333333333 l 0 20 l -13.275 6.6375 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 428 279.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 269.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 271.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 259.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 249.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 239.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 241.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 229.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 221.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 209.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 211.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 199.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 189.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 191.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 181.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 169.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 159.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 161.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 149.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 151.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 141.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 129.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 131.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 109.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 99.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 91.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 79.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 81.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 69.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 49.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 39.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 41.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 29.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 31.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 19.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 21.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="424" y1="-2.6666666666666856" x2="424" y2="-22.666666666666686" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="424" cy="-22.666666666666686" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.9201138355868408s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>AudioNoise (C) | Stars: 4155</title>
+                     <title>andropedia-weekly-chronicle (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/test-tlb" target="_blank">
+            <a href="https://github.com/M-Mifra/BallotBox" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.1s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="376" cy="301.2258333333333" rx="11.6775" ry="6.228000000000001" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="376" cy="301.8633333333333" rx="13.59" ry="7.248000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 368.215 1.2258333333333145 l 0 300 l 7.785 3.8925 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 383.785 1.2258333333333145 l 0 300 l -7.785 3.8925 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 376 -2.6666666666666856 l 7.785 3.8925 l -7.785 3.8925 l -7.785 -3.8925 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 366.94 281.8633333333333 l 0 20 l 9.06 4.53 l 0 -20 z" fill="url(#gradLeft-calm)" stroke="none" />
+                     <path d="M 385.06 281.8633333333333 l 0 20 l -9.06 4.53 l 0 -20 z" fill="url(#gradRight-calm)" stroke="none" />
+                     <path d="M 376 277.3333333333333 l 9.06 4.53 l -9.06 4.53 l -9.06 -4.53 z" fill="#D1F4FF" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 368.215 1.2258333333333145 l 0 300 l 7.785 3.8925 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 383.785 1.2258333333333145 l 0 300 l -7.785 3.8925 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 366.94 281.8633333333333 l 0 20 l 9.06 4.53 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 385.06 281.8633333333333 l 0 20 l -9.06 4.53 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 380 289.3333333333333 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 291.3333333333333 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 279.3333333333333 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 281.3333333333333 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 271.3333333333333 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 259.3333333333333 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 261.3333333333333 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 249.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 239.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 241.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 229.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 219.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 221.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 209.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 211.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 199.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 201.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 189.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 179.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 171.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 159.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 161.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 149.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 151.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 141.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 131.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 121.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 109.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 111.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 101.33333333333331 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 79.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 69.33333333333331 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 59.333333333333314 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 61.333333333333314 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 51.333333333333314 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 39.333333333333314 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 41.333333333333314 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 29.333333333333314 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 31.333333333333314 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 372.215 21.333333333333314 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 9.333333333333314 l -0.21499999999999986 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 372.215 11.333333333333314 l -0.21499999999999986 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="376" y1="-2.6666666666666856" x2="376" y2="-22.666666666666686" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="376" cy="-22.666666666666686" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.4420550152891662s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>test-tlb (C) | Stars: 936</title>
+                     <title>BallotBox (JavaScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/uemacs" target="_blank">
+            <a href="https://github.com/M-Mifra/andropedia-cinematic-weave" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15000000000000002s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="448" cy="316.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="448" cy="314.6433333333333" rx="15.93" ry="8.496" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 433 16.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 463 16.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 448 9.333333333333314 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 437.38 294.6433333333333 l 0 20 l 10.62 5.31 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 458.62 294.6433333333333 l 0 20 l -10.62 5.31 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 448 289.3333333333333 l 10.62 5.31 l -10.62 5.31 l -10.62 -5.31 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 433 16.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 463 16.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 437.38 294.6433333333333 l 0 20 l 10.62 5.31 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 458.62 294.6433333333333 l 0 20 l -10.62 5.31 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 437 303.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 291.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 281.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 271.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 273.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 261.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 251.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 253.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 241.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 243.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 231.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 221.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 223.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 213.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 201.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 203.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 191.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 183.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 161.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 163.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 151.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 141.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 133.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 121.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 123.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 111.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 113.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 91.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 93.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 81.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 61.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 63.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 53.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 41.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 43.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 31.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 21.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 23.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="448" y1="9.333333333333314" x2="448" y2="-10.666666666666686" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="448" cy="-10.666666666666686" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.2303529727441074s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>uemacs (C) | Stars: 1854</title>
+                     <title>andropedia-cinematic-weave (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/pesconvert" target="_blank">
+            <a href="https://github.com/M-Mifra/TickTock" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.2s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="400" cy="313.2108333333333" rx="11.6325" ry="6.204000000000001" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="400" cy="313.8633333333333" rx="13.59" ry="7.248000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 392.245 13.210833333333314 l 0 300 l 7.755 3.8775 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 407.755 13.210833333333314 l 0 300 l -7.755 3.8775 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 400 9.333333333333314 l 7.755 3.8775 l -7.755 3.8775 l -7.755 -3.8775 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 390.94 293.8633333333333 l 0 20 l 9.06 4.53 l 0 -20 z" fill="url(#gradLeft-calm)" stroke="none" />
+                     <path d="M 409.06 293.8633333333333 l 0 20 l -9.06 4.53 l 0 -20 z" fill="url(#gradRight-calm)" stroke="none" />
+                     <path d="M 400 289.3333333333333 l 9.06 4.53 l -9.06 4.53 l -9.06 -4.53 z" fill="#D1F4FF" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 392.245 13.210833333333314 l 0 300 l 7.755 3.8775 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 407.755 13.210833333333314 l 0 300 l -7.755 3.8775 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 390.94 293.8633333333333 l 0 20 l 9.06 4.53 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 409.06 293.8633333333333 l 0 20 l -9.06 4.53 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 404 301.3333333333333 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 303.3333333333333 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 291.3333333333333 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 293.3333333333333 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 396.245 283.3333333333333 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 396.245 273.3333333333333 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 396.245 263.3333333333333 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 251.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 243.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 221.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 211.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 201.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 191.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 193.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 181.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 183.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 171.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 173.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 161.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 163.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 151.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 153.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 396.245 143.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 131.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 133.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 111.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 103.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 91.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 93.33333333333331 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 81.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 71.33333333333331 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 404 61.333333333333314 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 63.333333333333314 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 396.245 53.333333333333314 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 396.245 43.333333333333314 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 31.333333333333314 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 33.333333333333314 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 404 21.333333333333314 l -0.2450000000000001 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 396.245 23.333333333333314 l -0.2450000000000001 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="400" y1="9.333333333333314" x2="400" y2="-10.666666666666686" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="400" cy="-10.666666666666686" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.2353385454446157s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>pesconvert (C) | Stars: 545</title>
+                     <title>TickTock (JavaScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/libdc-for-dirk" target="_blank">
+            <a href="https://github.com/M-Mifra/HotelOS" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.25s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="352" cy="316.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="352" cy="313.1508333333333" rx="11.4525" ry="6.1080000000000005" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 337 16.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 367 16.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 352 9.333333333333314 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 344.365 293.1508333333333 l 0 20 l 7.635 3.8175 l 0 -20 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 359.635 293.1508333333333 l 0 20 l -7.635 3.8175 l 0 -20 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 352 289.3333333333333 l 7.635 3.8175 l -7.635 3.8175 l -7.635 -3.8175 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 337 16.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 367 16.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 344.365 293.1508333333333 l 0 20 l 7.635 3.8175 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 359.635 293.1508333333333 l 0 20 l -7.635 3.8175 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 356 291.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 281.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 271.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 273.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 261.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 263.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 251.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 253.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 241.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 243.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 231.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 233.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 221.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 223.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 211.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 213.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 201.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 191.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 181.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 171.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 173.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 161.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 163.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 341 153.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 141.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 131.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 133.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 121.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 123.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 111.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 113.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 101.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 91.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 93.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 81.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 71.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 73.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 61.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 63.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 51.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 41.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 43.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 356 31.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 356 21.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 341 23.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="352" y1="9.333333333333314" x2="352" y2="-10.666666666666686" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="352" cy="-10.666666666666686" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.3473513064575635s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>libdc-for-dirk (C) | Stars: 373</title>
+                     <title>HotelOS (Shell) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/GuitarPedal" target="_blank">
+            <a href="https://github.com/M-Mifra/repo-verse" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.30000000000000004s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="472" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="472" cy="327.4083333333333" rx="18.225" ry="9.72" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 457 28.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 487 28.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 472 21.333333333333314 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 459.85 307.4083333333333 l 0 20 l 12.15 6.075 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 484.15 307.4083333333333 l 0 20 l -12.15 6.075 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 472 301.3333333333333 l 12.15 6.075 l -12.15 6.075 l -12.15 -6.075 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 457 28.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 487 28.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 459.85 307.4083333333333 l 0 20 l 12.15 6.075 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 484.15 307.4083333333333 l 0 20 l -12.15 6.075 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 476 313.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 303.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 305.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 295.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 285.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 273.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 275.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 263.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 265.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 253.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 255.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 233.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 235.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 225.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 213.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 215.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 203.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 205.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 193.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 183.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 175.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 163.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 153.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 155.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 143.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 145.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 133.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 135.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 125.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 103.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 105.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 93.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 95.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 83.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 85.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 73.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 75.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 461 65.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 53.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 476 43.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 45.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 476 33.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 461 35.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="472" y1="21.333333333333314" x2="472" y2="1.3333333333333144" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="472" cy="1.3333333333333144" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.160411436233219s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>GuitarPedal (C) | Stars: 1715</title>
+                     <title>repo-verse (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/1590A" target="_blank">
+            <a href="https://github.com/M-Mifra/athenafit-readiness" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.35000000000000003s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="424" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="424" cy="326.6508333333333" rx="15.9525" ry="8.508000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 409 28.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 439 28.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 424 21.333333333333314 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 413.365 306.6508333333333 l 0 20 l 10.635 5.3175 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 434.635 306.6508333333333 l 0 20 l -10.635 5.3175 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 424 301.3333333333333 l 10.635 5.3175 l -10.635 5.3175 l -10.635 -5.3175 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 409 28.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 439 28.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 413.365 306.6508333333333 l 0 20 l 10.635 5.3175 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 434.635 306.6508333333333 l 0 20 l -10.635 5.3175 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 428 313.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 305.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 293.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 295.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 285.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 273.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 275.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 265.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 255.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 245.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 233.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 235.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 413 195.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 183.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 185.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 173.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 175.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 153.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 155.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 143.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 145.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 133.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 135.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 123.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 125.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 113.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 103.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 105.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 93.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 95.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 83.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 85.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 428 73.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 53.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 43.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 428 33.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 413 35.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="424" y1="21.333333333333314" x2="424" y2="1.3333333333333144" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="424" cy="1.3333333333333144" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.0465434218952385s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>1590A (OpenSCAD) | Stars: 539</title>
+                     <title>athenafit-readiness (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/libgit2" target="_blank">
+            <a href="https://github.com/M-Mifra/WellPlated" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.4s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="376" cy="328.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="376" cy="325.18083333333334" rx="11.5425" ry="6.156000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 361 28.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 391 28.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 376 21.333333333333314 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 368.305 305.18083333333334 l 0 20 l 7.695 3.8475 l 0 -20 z" fill="url(#gradLeft-calm)" stroke="none" />
+                     <path d="M 383.695 305.18083333333334 l 0 20 l -7.695 3.8475 l 0 -20 z" fill="url(#gradRight-calm)" stroke="none" />
+                     <path d="M 376 301.3333333333333 l 7.695 3.8475 l -7.695 3.8475 l -7.695 -3.8475 z" fill="#D1F4FF" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 361 28.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 391 28.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 368.305 305.18083333333334 l 0 20 l 7.695 3.8475 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 383.695 305.18083333333334 l 0 20 l -7.695 3.8475 l 0 -20 z" fill="none" stroke="#00C2FF" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 380 313.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 315.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 303.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 305.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 295.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 285.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 275.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 263.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 265.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 233.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 223.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 215.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 205.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 193.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 195.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 183.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 185.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 173.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 163.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 153.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 145.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 133.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 135.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 123.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 125.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 113.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 115.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 105.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 93.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 95.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 365 85.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 73.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 75.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 63.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 365 65.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 380 53.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 43.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 380 33.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" />
                      
-                <line x1="376" y1="21.333333333333314" x2="376" y2="1.3333333333333144" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="376" cy="1.3333333333333144" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.836802076203519s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>libgit2 (C) | Stars: 332</title>
+                     <title>WellPlated (Python) | Stars: 0</title>
                 </g>
             </a>
         
 
-            <a href="https://github.com/torvalds/subsurface-for-dirk" target="_blank">
+            <a href="https://github.com/M-Mifra/PromoSphere" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.45s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="448" cy="340.8333333333333" rx="22.5" ry="12" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="448" cy="337.5408333333333" rx="12.622499999999999" ry="6.731999999999999" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 433 40.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="url(#gradLeft-happy)" stroke="none" />
-                     <path d="M 463 40.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="url(#gradRight-happy)" stroke="none" />
-                     <path d="M 448 33.333333333333314 l 15 7.5 l -15 7.5 l -15 -7.5 z" fill="#FFFACD" fill-opacity="0.9" stroke="none" />
+                     <path d="M 439.585 317.5408333333333 l 0 20 l 8.415 4.2075 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 456.415 317.5408333333333 l 0 20 l -8.415 4.2075 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 448 313.3333333333333 l 8.415 4.2075 l -8.415 4.2075 l -8.415 -4.2075 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 433 40.833333333333314 l 0 300 l 15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 463 40.833333333333314 l 0 300 l -15 7.5 l 0 -300 z" fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 439.585 317.5408333333333 l 0 20 l 8.415 4.2075 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 456.415 317.5408333333333 l 0 20 l -8.415 4.2075 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
-                     <path d="M 452 325.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 317.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 305.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 307.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 297.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 285.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 287.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 275.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 277.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 265.3333333333333 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 267.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 255.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 257.3333333333333 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 235.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 237.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 227.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 215.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 205.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 207.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 195.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 187.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 175.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 177.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 165.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 155.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 157.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 145.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 147.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 135.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 125.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 452 105.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 107.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 95.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 97.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 85.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 87.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 75.33333333333331 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 77.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 437 67.33333333333331 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 55.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 57.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" /><path d="M 452 45.333333333333314 l 7 4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.6" /><path d="M 437 47.333333333333314 l 7 -4" stroke="#FFFACD" stroke-width="2" stroke-opacity="0.4" />
                      
-                <line x1="448" y1="33.333333333333314" x2="448" y2="13.333333333333314" stroke="#FFFACD" stroke-width="1.5" />
-                <circle cx="448" cy="13.333333333333314" r="1.5" fill="white">
-                    <animate attributeName="opacity" values="0.2;1;0.2" dur="2.987600309979516s" repeatCount="indefinite" />
-                </circle>
-             
+                     
 
                      <!-- Tooltip -->
-                     <title>subsurface-for-dirk (C++) | Stars: 434</title>
+                     <title>PromoSphere (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         

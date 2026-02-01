@@ -37,15 +37,15 @@
     <circle cx="400" cy="300" r="40" fill="url(#sunGradient3D)">
       <animate attributeName="r" values="40;42;40" dur="4s" repeatCount="indefinite" />
     </circle>
-    <image href="https://avatars.githubusercontent.com/u/1024025?v=4" xlink:href="https://avatars.githubusercontent.com/u/1024025?v=4" x="360" y="260" height="80" width="80" clip-path="url(#sunClip3D)" opacity="0.8" />
+    <image href="https://avatars.githubusercontent.com/u/228792905?v=4" xlink:href="https://avatars.githubusercontent.com/u/228792905?v=4" x="360" y="260" height="80" width="80" clip-path="url(#sunClip3D)" opacity="0.8" />
   </g>
   
   <!-- User Name -->
-  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" opacity="0.8">Linus Torvalds</text>
+  <text x="400" y="370" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="14" font-weight="bold" opacity="0.8">M Mifra</text>
 
   <!-- Planets (3D Orbits) -->
   
-      <!-- Planet: linux -->
+      <!-- Planet: M-Mifra -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-0" cx="30%" cy="30%" r="70%">
@@ -98,17 +98,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/linux" target="_blank" style="cursor: pointer;">
-                <circle r="60" fill="url(#planetGrad3D-0)">
-                    <title>linux (C)</title>
+            <a href="https://github.com/M-Mifra/M-Mifra" target="_blank" style="cursor: pointer;">
+                <circle r="25.83773044716594" fill="url(#planetGrad3D-0)">
+                    <title>M-Mifra (null)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="60" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="25.83773044716594" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="108" ry="30" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -116,12 +114,12 @@
       </g>
     
 
-      <!-- Planet: AudioNoise -->
+      <!-- Planet: andropedia-weekly-chronicle -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-1" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -169,17 +167,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/AudioNoise" target="_blank" style="cursor: pointer;">
-                <circle r="41.781567794269556" fill="url(#planetGrad3D-1)">
-                    <title>AudioNoise (C)</title>
+            <a href="https://github.com/M-Mifra/andropedia-weekly-chronicle" target="_blank" style="cursor: pointer;">
+                <circle r="37.85973000286336" fill="url(#planetGrad3D-1)">
+                    <title>andropedia-weekly-chronicle (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="41.781567794269556" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="37.85973000286336" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="75.2068220296852" ry="20.890783897134778" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -187,12 +183,12 @@
       </g>
     
 
-      <!-- Planet: uemacs -->
+      <!-- Planet: andropedia-cinematic-weave -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-2" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -240,17 +236,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/uemacs" target="_blank" style="cursor: pointer;">
-                <circle r="38.66177051029922" fill="url(#planetGrad3D-2)">
-                    <title>uemacs (C)</title>
+            <a href="https://github.com/M-Mifra/andropedia-cinematic-weave" target="_blank" style="cursor: pointer;">
+                <circle r="36.012614239103954" fill="url(#planetGrad3D-2)">
+                    <title>andropedia-cinematic-weave (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="38.66177051029922" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="36.012614239103954" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="69.5911869185386" ry="19.33088525514961" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -258,12 +252,12 @@
       </g>
     
 
-      <!-- Planet: GuitarPedal -->
+      <!-- Planet: repo-verse -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-3" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -311,17 +305,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/GuitarPedal" target="_blank" style="cursor: pointer;">
-                <circle r="45.19387731047762" fill="url(#planetGrad3D-3)">
-                    <title>GuitarPedal (C)</title>
+            <a href="https://github.com/M-Mifra/repo-verse" target="_blank" style="cursor: pointer;">
+                <circle r="37.20971689243758" fill="url(#planetGrad3D-3)">
+                    <title>repo-verse (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="45.19387731047762" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="37.20971689243758" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="81.34897915885972" ry="22.59693865523881" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -329,12 +321,12 @@
       </g>
     
 
-      <!-- Planet: test-tlb -->
+      <!-- Planet: BallotBox -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-4" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
+            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -382,17 +374,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/test-tlb" target="_blank" style="cursor: pointer;">
-                <circle r="28.83331693749932" fill="url(#planetGrad3D-4)">
-                    <title>test-tlb (C)</title>
+            <a href="https://github.com/M-Mifra/BallotBox" target="_blank" style="cursor: pointer;">
+                <circle r="33.93317269742412" fill="url(#planetGrad3D-4)">
+                    <title>BallotBox (JavaScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="28.83331693749932" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="33.93317269742412" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="51.89997048749878" ry="14.41665846874966" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -400,12 +390,12 @@
       </g>
     
 
-      <!-- Planet: pesconvert -->
+      <!-- Planet: TickTock -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-5" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#F7DF1E" stop-opacity="1" />
+            <stop offset="50%" stop-color="#F7DF1E" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -453,17 +443,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/pesconvert" target="_blank" style="cursor: pointer;">
-                <circle r="28.49964003216865" fill="url(#planetGrad3D-5)">
-                    <title>pesconvert (C)</title>
+            <a href="https://github.com/M-Mifra/TickTock" target="_blank" style="cursor: pointer;">
+                <circle r="33.93317269742412" fill="url(#planetGrad3D-5)">
+                    <title>TickTock (JavaScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="28.49964003216865" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="33.93317269742412" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="51.29935205790357" ry="14.249820016084325" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -471,12 +459,12 @@
       </g>
     
 
-      <!-- Planet: 1590A -->
+      <!-- Planet: athenafit-readiness -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-6" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -524,13 +512,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/1590A" target="_blank" style="cursor: pointer;">
-                <circle r="47.884595981137615" fill="url(#planetGrad3D-6)">
-                    <title>1590A (OpenSCAD)</title>
+            <a href="https://github.com/M-Mifra/athenafit-readiness" target="_blank" style="cursor: pointer;">
+                <circle r="36.02700275589443" fill="url(#planetGrad3D-6)">
+                    <title>athenafit-readiness (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="47.884595981137615" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="36.02700275589443" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -540,12 +528,12 @@
       </g>
     
 
-      <!-- Planet: subsurface-for-dirk -->
+      <!-- Planet: PromoSphere -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-7" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3178C6" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3178C6" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -593,17 +581,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/subsurface-for-dirk" target="_blank" style="cursor: pointer;">
-                <circle r="55.86005668793387" fill="url(#planetGrad3D-7)">
-                    <title>subsurface-for-dirk (C++)</title>
+            <a href="https://github.com/M-Mifra/PromoSphere" target="_blank" style="cursor: pointer;">
+                <circle r="32.332621592519935" fill="url(#planetGrad3D-7)">
+                    <title>PromoSphere (TypeScript)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="55.86005668793387" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="32.332621592519935" fill="none" stroke="#00FF94" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="100.54810203828097" ry="27.930028343966935" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -611,7 +597,7 @@
       </g>
     
 
-      <!-- Planet: libdc-for-dirk -->
+      <!-- Planet: HotelOS -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-8" cx="30%" cy="30%" r="70%">
@@ -664,17 +650,15 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/libdc-for-dirk" target="_blank" style="cursor: pointer;">
-                <circle r="44.68292812371329" fill="url(#planetGrad3D-8)">
-                    <title>libdc-for-dirk (C)</title>
+            <a href="https://github.com/M-Mifra/HotelOS" target="_blank" style="cursor: pointer;">
+                <circle r="26.59167373200866" fill="url(#planetGrad3D-8)">
+                    <title>HotelOS (Shell)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="44.68292812371329" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="26.59167373200866" fill="none" stroke="#FF00E6" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
-                
-                  <ellipse rx="80.42927062268392" ry="22.341464061856644" fill="none" stroke="rgba(255,255,255,0.6)" stroke-width="2" transform="rotate(-15)" />
                 
             </a>
           </g>
@@ -682,12 +666,12 @@
       </g>
     
 
-      <!-- Planet: libgit2 -->
+      <!-- Planet: WellPlated -->
       <g>
         <defs>
           <radialGradient id="planetGrad3D-9" cx="30%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#808080" stop-opacity="1" />
-            <stop offset="50%" stop-color="#808080" stop-opacity="0.8" />
+            <stop offset="0%" stop-color="#3776AB" stop-opacity="1" />
+            <stop offset="50%" stop-color="#3776AB" stop-opacity="0.8" />
             <stop offset="100%" stop-color="#000" stop-opacity="1" />
           </radialGradient>
         </defs>
@@ -735,13 +719,13 @@
             />
 
             <!-- Planet Visual -->
-            <a href="https://github.com/torvalds/libgit2" target="_blank" style="cursor: pointer;">
-                <circle r="53.141602005348" fill="url(#planetGrad3D-9)">
-                    <title>libgit2 (C)</title>
+            <a href="https://github.com/M-Mifra/WellPlated" target="_blank" style="cursor: pointer;">
+                <circle r="27.69484807238461" fill="url(#planetGrad3D-9)">
+                    <title>WellPlated (Python)</title>
                 </circle>
                 
                 <!-- Atmosphere/Glow -->
-                <circle r="53.141602005348" fill="none" stroke="#FFD700" stroke-width="2" opacity="0.3" />
+                <circle r="27.69484807238461" fill="none" stroke="#00C2FF" stroke-width="2" opacity="0.3" />
                 
                 <!-- Texture: Ring -->
                 
@@ -756,10 +740,10 @@
   
       <g opacity="0">
         <animate attributeName="opacity" values="1; 1; 0; 0" keyTimes="0; 0.099; 0.1; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> linux</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 215846</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 5928264kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> M-Mifra</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: N/A | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 7kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="0s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -767,10 +751,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.1; 0.101; 0.199; 0.2; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> AudioNoise</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 4155</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 1423kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> andropedia-weekly-chronicle</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 385kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="4s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -778,10 +762,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.2; 0.201; 0.299; 0.3; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> uemacs</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 1854</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 503kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> andropedia-cinematic-weave</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 208kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="8s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -789,10 +773,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.3; 0.301; 0.399; 0.4; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> GuitarPedal</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 1715</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 4438kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> repo-verse</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 310kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="12s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -800,10 +784,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.4; 0.401; 0.499; 0.5; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> test-tlb</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 936</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 19kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> BallotBox</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 104kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="16s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -811,10 +795,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.5; 0.501; 0.599; 0.6; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> pesconvert</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 545</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 17kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> TickTock</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: JavaScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 104kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="20s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -822,10 +806,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.6; 0.601; 0.699; 0.7; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> 1590A</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: OpenSCAD | STARS: 539</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 10882kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> athenafit-readiness</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 209kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="24s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -833,10 +817,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.7; 0.701; 0.799; 0.8; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> subsurface-for-dirk</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C++ | STARS: 434</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 155337kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00FF94" font-family="Courier New, monospace" font-size="16" font-weight="bold">> PromoSphere</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: TypeScript | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: FOCUSED | SIZE: 61kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00FF94">
             <animate attributeName="width" values="0;200" begin="28s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -844,10 +828,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1; 0; 0" keyTimes="0; 0.8; 0.801; 0.899; 0.9; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> libdc-for-dirk</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 373</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 3743kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#FF00E6" font-family="Courier New, monospace" font-size="16" font-weight="bold">> HotelOS</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Shell | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: ENERGETIC | SIZE: 9kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#FF00E6">
             <animate attributeName="width" values="0;200" begin="32s" dur="4s" fill="freeze" />
         </rect>
       </g>
@@ -855,10 +839,10 @@
 
       <g opacity="0">
         <animate attributeName="opacity" values="0; 0; 1; 1" keyTimes="0; 0.9; 0.901; 1" dur="40s" repeatCount="indefinite" />
-        <text x="20" y="520" fill="#FFD700" font-family="Courier New, monospace" font-size="16" font-weight="bold">> libgit2</text>
-        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: C | STARS: 332</text>
-        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: HAPPY | SIZE: 62768kb</text>
-        <rect x="20" y="565" width="0" height="2" fill="#FFD700">
+        <text x="20" y="520" fill="#00C2FF" font-family="Courier New, monospace" font-size="16" font-weight="bold">> WellPlated</text>
+        <text x="20" y="540" fill="#ccc" font-family="Courier New, monospace" font-size="12">LANG: Python | STARS: 0</text>
+        <text x="20" y="555" fill="#ccc" font-family="Courier New, monospace" font-size="12">MOOD: CALM | SIZE: 13kb</text>
+        <rect x="20" y="565" width="0" height="2" fill="#00C2FF">
             <animate attributeName="width" values="0;200" begin="36s" dur="4s" fill="freeze" />
         </rect>
       </g>
