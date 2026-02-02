@@ -74,7 +74,7 @@
   <rect width="100%" height="100%" fill="url(#skyGradient)" />
   
   <!-- Stars -->
-  <circle cx="613.9121919084248" cy="118.20927476878794" r="0.34646123696535136" fill="white" opacity="0.380897886434423"/><circle cx="204.4030293051389" cy="36.30085473984194" r="0.4374032147134722" fill="white" opacity="0.31895041596860074"/><circle cx="262.41076326760503" cy="99.3822070331726" r="1.3997227519473225" fill="white" opacity="0.05703135152160255"/><circle cx="163.40778626240055" cy="189.99454341930252" r="0.8637485729215274" fill="white" opacity="0.7488417233229145"/><circle cx="479.34949015260725" cy="44.03316986960732" r="1.0716580493422727" fill="white" opacity="0.37945518295083125"/><circle cx="568.2187445732596" cy="120.63050529450834" r="0.17507278778733015" fill="white" opacity="0.8659668665372049"/><circle cx="514.1871828052672" cy="193.31113552144478" r="0.45758457008896003" fill="white" opacity="0.8981148165287518"/><circle cx="30.413115877047403" cy="155.4663496043001" r="0.3414177355215827" fill="white" opacity="0.9560747891818449"/><circle cx="626.6265891502516" cy="36.95912998970572" r="1.1848320539439399" fill="white" opacity="0.2645247670764328"/><circle cx="654.3984744376385" cy="162.63228381571344" r="0.5338010744862555" fill="white" opacity="0.6513400739104283"/><circle cx="540.5145948093189" cy="289.76941537979053" r="1.0826030109770863" fill="white" opacity="0.42940844368559716"/><circle cx="570.709456338942" cy="51.69852726159846" r="1.4523871059547289" fill="white" opacity="0.3954782142005364"/><circle cx="217.1614496449898" cy="267.4227884727469" r="0.8404516793468343" fill="white" opacity="0.44095650392352903"/><circle cx="334.291036968367" cy="285.93819312328657" r="0.9022046721088454" fill="white" opacity="0.025555769051394117"/><circle cx="53.14670147303371" cy="285.5137193317023" r="0.44636277910940747" fill="white" opacity="0.08615691269356907"/><circle cx="628.0844281878798" cy="87.97872490191332" r="0.44505514036460125" fill="white" opacity="0.08063654683140586"/><circle cx="393.03362495714237" cy="94.71322654139446" r="0.6816446707528993" fill="white" opacity="0.4945304736430802"/><circle cx="772.256373548899" cy="344.3105144771336" r="0.9177806894875844" fill="white" opacity="0.7531979869309178"/><circle cx="214.98099294398293" cy="80.42759251838447" r="1.2537028771261403" fill="white" opacity="0.9611057167877013"/><circle cx="411.71509037336523" cy="235.33769805628407" r="1.2350583603951504" fill="white" opacity="0.4948846153594575"/><circle cx="545.6469546588314" cy="227.6630449346877" r="1.0203236872545054" fill="white" opacity="0.5043245027140659"/><circle cx="482.1195324866183" cy="117.48312740726892" r="1.3491036034773172" fill="white" opacity="0.7747126165337532"/><circle cx="211.55342007810117" cy="350.49684710544847" r="1.4872418544512107" fill="white" opacity="0.29692176400479764"/><circle cx="727.1666859751367" cy="32.13173519399451" r="1.0366695475659475" fill="white" opacity="0.015859798634888955"/><circle cx="488.8766439911249" cy="344.7721521548971" r="1.058322584563871" fill="white" opacity="0.4711360005484684"/><circle cx="159.98668640523962" cy="270.4391332516466" r="0.06369995626260194" fill="white" opacity="0.2754420694325055"/><circle cx="275.5878524567775" cy="156.46987918175154" r="0.5868781195240279" fill="white" opacity="0.5063275745847802"/><circle cx="156.97763843399386" cy="67.13374370433971" r="0.9893899634713235" fill="white" opacity="0.09365040837919669"/><circle cx="606.0826773994854" cy="270.75904746635746" r="0.9895355097935162" fill="white" opacity="0.49862660086105337"/><circle cx="259.62739151482185" cy="136.45480028398748" r="1.0414471353630805" fill="white" opacity="0.08023867208929669"/>
+  <circle cx="498.8111001696982" cy="191.54398276879706" r="0.30590739353924845" fill="white" opacity="0.996252925620811"/><circle cx="399.3737894866401" cy="89.86205920842342" r="1.0281405928462897" fill="white" opacity="0.7482195119771304"/><circle cx="402.62647276443283" cy="337.10701629553506" r="1.285580760822651" fill="white" opacity="0.9101381134846716"/><circle cx="110.05459453241997" cy="200.82571233097346" r="1.053717276670763" fill="white" opacity="0.3201885730620033"/><circle cx="212.06728294273844" cy="117.33270785608534" r="0.37510251676366646" fill="white" opacity="0.1469041364911583"/><circle cx="314.53199432251057" cy="246.07404913401484" r="1.1924572003878797" fill="white" opacity="0.07002454463915142"/><circle cx="566.0323557666914" cy="253.51055422528563" r="1.0965899933994023" fill="white" opacity="0.3544941347220769"/><circle cx="437.5837735369025" cy="127.54635781296581" r="0.2716959665428874" fill="white" opacity="0.14422551543660367"/><circle cx="446.49224442803774" cy="338.90866852184666" r="0.784911270778041" fill="white" opacity="0.62618217837093"/><circle cx="286.3005154382126" cy="139.36983762578345" r="1.1628186099326898" fill="white" opacity="0.1349841989027798"/><circle cx="772.8024556091135" cy="197.69405431751787" r="1.124616223523576" fill="white" opacity="0.06735290692485951"/><circle cx="221.46739067973976" cy="249.85785053530418" r="1.1924373933190318" fill="white" opacity="0.20489052606865266"/><circle cx="656.6003016852578" cy="13.85980809746253" r="0.7060213636540573" fill="white" opacity="0.9104318137827176"/><circle cx="385.80760139970585" cy="336.099049610149" r="0.9122956505357094" fill="white" opacity="0.5500984156410411"/><circle cx="335.9813201742128" cy="118.1131427378194" r="0.4770162839616895" fill="white" opacity="0.04296267424687228"/><circle cx="651.2298151648798" cy="250.16016854842343" r="0.38070812179380986" fill="white" opacity="0.0014127424252443621"/><circle cx="472.25004031291604" cy="99.03872165524481" r="1.0216858679273337" fill="white" opacity="0.8615536935356851"/><circle cx="754.9479019908562" cy="32.92869593960543" r="0.8699547256321364" fill="white" opacity="0.38956092328698566"/><circle cx="69.16226218906499" cy="322.81653912269377" r="1.454287119872494" fill="white" opacity="0.05970896173161533"/><circle cx="593.5004512083032" cy="26.830271173598927" r="0.45738313412801623" fill="white" opacity="0.8043226678622319"/><circle cx="269.59398598725403" cy="336.4785914919925" r="0.19577007210901465" fill="white" opacity="0.9483712003117171"/><circle cx="290.1705322722348" cy="155.71277987054705" r="0.13608815894720971" fill="white" opacity="0.535611741533166"/><circle cx="578.3566620996045" cy="218.058900909521" r="0.473361155109041" fill="white" opacity="0.8815746505126334"/><circle cx="465.92036653308037" cy="27.548578385157587" r="1.0931273521858" fill="white" opacity="0.8242449136915075"/><circle cx="320.9754046878196" cy="9.896608752908245" r="0.6847683340659806" fill="white" opacity="0.5946338083262035"/><circle cx="654.5727959178965" cy="291.02103124680286" r="0.21993277551518564" fill="white" opacity="0.18826518733397868"/><circle cx="304.37206807113154" cy="276.71022538321284" r="0.10604984480574886" fill="white" opacity="0.8775575414676613"/><circle cx="89.42727377202414" cy="38.11521590032424" r="0.6706787575563157" fill="white" opacity="0.516381493473832"/><circle cx="65.29187062294532" cy="61.12911986362661" r="0.5324625484151296" fill="white" opacity="0.7932606612822186"/><circle cx="407.63245364294835" cy="179.49794257044144" r="0.8224077421860266" fill="white" opacity="0.29629882804388874"/>
 
   <!-- Perspective Floor Grid (Simulated) -->
   <g transform="translate(0, 300) scale(1, 0.5)">
@@ -93,21 +93,47 @@
   <!-- The Buildings -->
   <g transform="translate(0, 50)"> 
     
-            <a href="https://github.com/M-Mifra/M-Mifra" target="_blank">
+            <a href="https://github.com/M-Mifra/repo-verse" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="400" cy="289.1358333333333" rx="11.4075" ry="6.0840000000000005" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="400" cy="291.5133333333333" rx="18.540000000000003" ry="9.888000000000002" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 392.395 269.1358333333333 l 0 20 l 7.605 3.8025 l 0 -20 z" fill="url(#gradLeft-energetic)" stroke="none" />
-                     <path d="M 407.605 269.1358333333333 l 0 20 l -7.605 3.8025 l 0 -20 z" fill="url(#gradRight-energetic)" stroke="none" />
-                     <path d="M 400 265.3333333333333 l 7.605 3.8025 l -7.605 3.8025 l -7.605 -3.8025 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
+                     <path d="M 387.64 271.5133333333333 l 0 20 l 12.360000000000001 6.180000000000001 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 412.36 271.5133333333333 l 0 20 l -12.360000000000001 6.180000000000001 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 400 265.3333333333333 l 12.360000000000001 6.180000000000001 l -12.360000000000001 6.180000000000001 l -12.360000000000001 -6.180000000000001 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 392.395 269.1358333333333 l 0 20 l 7.605 3.8025 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 407.605 269.1358333333333 l 0 20 l -7.605 3.8025 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 387.64 271.5133333333333 l 0 20 l 12.360000000000001 6.180000000000001 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 412.36 271.5133333333333 l 0 20 l -12.360000000000001 6.180000000000001 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+
+                     <!-- Details -->
+                     
+                     
+
+                     <!-- Tooltip -->
+                     <title>repo-verse (TypeScript) | Stars: 0</title>
+                </g>
+            </a>
+        
+
+            <a href="https://github.com/M-Mifra/M-Mifra" target="_blank">
+                <g class="building" opacity="0">
+                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.05s" fill="freeze" />
+                     
+                     <!-- Shadow (Simple Ellipse approx) -->
+                     <ellipse cx="424" cy="301.1358333333333" rx="11.4075" ry="6.0840000000000005" fill="black" opacity="0.4" blur="2" />
+
+                     <!-- Structure -->
+                     <path d="M 416.395 281.1358333333333 l 0 20 l 7.605 3.8025 l 0 -20 z" fill="url(#gradLeft-energetic)" stroke="none" />
+                     <path d="M 431.605 281.1358333333333 l 0 20 l -7.605 3.8025 l 0 -20 z" fill="url(#gradRight-energetic)" stroke="none" />
+                     <path d="M 424 277.3333333333333 l 7.605 3.8025 l -7.605 3.8025 l -7.605 -3.8025 z" fill="#FAD7FA" fill-opacity="0.9" stroke="none" />
+                     
+                     <!-- Glow Edge -->
+                     <path d="M 416.395 281.1358333333333 l 0 20 l 7.605 3.8025 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 431.605 281.1358333333333 l 0 20 l -7.605 3.8025 l 0 -20 z" fill="none" stroke="#D300C5" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
                      
@@ -115,32 +141,6 @@
 
                      <!-- Tooltip -->
                      <title>M-Mifra (null) | Stars: 0</title>
-                </g>
-            </a>
-        
-
-            <a href="https://github.com/M-Mifra/andropedia-weekly-chronicle" target="_blank">
-                <g class="building" opacity="0">
-                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.05s" fill="freeze" />
-                     
-                     <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="424" cy="303.9708333333333" rx="19.9125" ry="10.620000000000001" fill="black" opacity="0.4" blur="2" />
-
-                     <!-- Structure -->
-                     <path d="M 410.725 283.9708333333333 l 0 20 l 13.275 6.6375 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 437.275 283.9708333333333 l 0 20 l -13.275 6.6375 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 424 277.3333333333333 l 13.275 6.6375 l -13.275 6.6375 l -13.275 -6.6375 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
-                     
-                     <!-- Glow Edge -->
-                     <path d="M 410.725 283.9708333333333 l 0 20 l 13.275 6.6375 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 437.275 283.9708333333333 l 0 20 l -13.275 6.6375 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-
-                     <!-- Details -->
-                     
-                     
-
-                     <!-- Tooltip -->
-                     <title>andropedia-weekly-chronicle (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
@@ -171,28 +171,28 @@
             </a>
         
 
-            <a href="https://github.com/M-Mifra/andropedia-cinematic-weave" target="_blank">
+            <a href="https://github.com/M-Mifra/andropedia-weekly-chronicle" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.15000000000000002s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="448" cy="314.6433333333333" rx="15.93" ry="8.496" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="448" cy="315.9708333333333" rx="19.9125" ry="10.620000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 437.38 294.6433333333333 l 0 20 l 10.62 5.31 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 458.62 294.6433333333333 l 0 20 l -10.62 5.31 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 448 289.3333333333333 l 10.62 5.31 l -10.62 5.31 l -10.62 -5.31 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
+                     <path d="M 434.725 295.9708333333333 l 0 20 l 13.275 6.6375 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 461.275 295.9708333333333 l 0 20 l -13.275 6.6375 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 448 289.3333333333333 l 13.275 6.6375 l -13.275 6.6375 l -13.275 -6.6375 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 437.38 294.6433333333333 l 0 20 l 10.62 5.31 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 458.62 294.6433333333333 l 0 20 l -10.62 5.31 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 434.725 295.9708333333333 l 0 20 l 13.275 6.6375 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 461.275 295.9708333333333 l 0 20 l -13.275 6.6375 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
                      
                      
 
                      <!-- Tooltip -->
-                     <title>andropedia-cinematic-weave (TypeScript) | Stars: 0</title>
+                     <title>andropedia-weekly-chronicle (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
@@ -249,28 +249,28 @@
             </a>
         
 
-            <a href="https://github.com/M-Mifra/repo-verse" target="_blank">
+            <a href="https://github.com/M-Mifra/andropedia-cinematic-weave" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.30000000000000004s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="472" cy="327.4083333333333" rx="18.225" ry="9.72" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="472" cy="326.6433333333333" rx="15.93" ry="8.496" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 459.85 307.4083333333333 l 0 20 l 12.15 6.075 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 484.15 307.4083333333333 l 0 20 l -12.15 6.075 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 472 301.3333333333333 l 12.15 6.075 l -12.15 6.075 l -12.15 -6.075 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
+                     <path d="M 461.38 306.6433333333333 l 0 20 l 10.62 5.31 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 482.62 306.6433333333333 l 0 20 l -10.62 5.31 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 472 301.3333333333333 l 10.62 5.31 l -10.62 5.31 l -10.62 -5.31 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 459.85 307.4083333333333 l 0 20 l 12.15 6.075 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 484.15 307.4083333333333 l 0 20 l -12.15 6.075 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 461.38 306.6433333333333 l 0 20 l 10.62 5.31 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 482.62 306.6433333333333 l 0 20 l -10.62 5.31 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
                      
                      
 
                      <!-- Tooltip -->
-                     <title>repo-verse (TypeScript) | Stars: 0</title>
+                     <title>andropedia-cinematic-weave (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
