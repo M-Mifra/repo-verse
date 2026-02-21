@@ -74,7 +74,7 @@
   <rect width="100%" height="100%" fill="url(#skyGradient)" />
   
   <!-- Stars -->
-  <circle cx="168.82689664720198" cy="221.87859008931198" r="1.4955890772359557" fill="white" opacity="0.8259714476487778"/><circle cx="533.5980916597283" cy="344.57470391643693" r="1.2911876167216234" fill="white" opacity="0.7687917861997942"/><circle cx="444.34724697449343" cy="155.09490151662558" r="0.8231328288135799" fill="white" opacity="0.8708426043720707"/><circle cx="571.8442814102676" cy="106.56065110962183" r="1.4489643646720125" fill="white" opacity="0.32718788800086385"/><circle cx="85.66005225545084" cy="225.34022892410238" r="0.9392938803209933" fill="white" opacity="0.23889079565649873"/><circle cx="342.0130670425866" cy="282.5307482243481" r="1.3463128658701606" fill="white" opacity="0.504292925916447"/><circle cx="396.5638258416767" cy="324.79345741369127" r="0.683752642453931" fill="white" opacity="0.32142183187483875"/><circle cx="754.8868981792941" cy="86.08520311179538" r="0.23804746104474006" fill="white" opacity="0.36213830538728065"/><circle cx="374.3287100868841" cy="227.89912620691072" r="0.050645446439613995" fill="white" opacity="0.2400760165741418"/><circle cx="759.7924973627298" cy="29.93554927531534" r="0.6224319126822955" fill="white" opacity="0.2480411827790585"/><circle cx="586.762803243476" cy="233.70576960865338" r="0.15575427333784742" fill="white" opacity="0.44621298397857956"/><circle cx="661.8001682343598" cy="242.29630222977787" r="0.20815700761695644" fill="white" opacity="0.7180878185298185"/><circle cx="227.5023328586567" cy="288.69221577253757" r="0.05641070857092445" fill="white" opacity="0.7555353667137936"/><circle cx="352.45587528197683" cy="308.0869138316292" r="0.9889460227731611" fill="white" opacity="0.10165410201453362"/><circle cx="621.9330272712758" cy="287.8731709613833" r="0.6559290990131704" fill="white" opacity="0.27114342440787165"/><circle cx="765.0402897158635" cy="358.3996572077502" r="0.2666466512381864" fill="white" opacity="0.2723252283942681"/><circle cx="88.36880032584169" cy="176.0837205227839" r="1.0702113824687332" fill="white" opacity="0.9674089235365249"/><circle cx="11.669851359317285" cy="43.01254389246939" r="0.9426301255386141" fill="white" opacity="0.1680858831130121"/><circle cx="450.11397448632573" cy="290.81288881295984" r="0.3102545884065365" fill="white" opacity="0.8929491185841205"/><circle cx="166.47824242085764" cy="198.78685117819853" r="0.6021271116485019" fill="white" opacity="0.17608294195985752"/><circle cx="262.2917265606127" cy="240.67224749538957" r="0.746454393268957" fill="white" opacity="0.3566762875113163"/><circle cx="711.4045886503254" cy="108.05439752032062" r="0.9583489985624831" fill="white" opacity="0.5420711513670591"/><circle cx="628.3317448036516" cy="51.79755030238278" r="0.33418640457214666" fill="white" opacity="0.17818417411913767"/><circle cx="571.3166841420433" cy="244.36143835848915" r="0.26410500007848947" fill="white" opacity="0.30512020680603746"/><circle cx="649.285953042313" cy="222.21891937291363" r="1.0910092452185698" fill="white" opacity="0.9401733673156687"/><circle cx="371.92461401271794" cy="94.03737994161703" r="1.466682996280723" fill="white" opacity="0.20385915634484375"/><circle cx="299.8263901360053" cy="229.86221340217045" r="1.2217914769438831" fill="white" opacity="0.54813873750966"/><circle cx="706.3040490530543" cy="317.58717558375474" r="0.13357867285604208" fill="white" opacity="0.8556792941370253"/><circle cx="320.51722232906707" cy="269.8591093407221" r="0.5107855003002105" fill="white" opacity="0.2100999192402555"/><circle cx="62.39885727711236" cy="333.4320027442522" r="0.9544147896078439" fill="white" opacity="0.5463943202488326"/>
+  <circle cx="464.76230959010644" cy="312.8248099428572" r="0.47261633332600594" fill="white" opacity="0.4371343707692166"/><circle cx="690.1164902704155" cy="114.17502378158976" r="0.4822397006236444" fill="white" opacity="0.6604064304516903"/><circle cx="86.07052596000048" cy="285.67351951704734" r="0.24807464725359507" fill="white" opacity="0.9836863403350229"/><circle cx="571.7503933031818" cy="105.08590349064391" r="0.2557473498734383" fill="white" opacity="0.6043058613658077"/><circle cx="154.0358067909093" cy="199.12668871520154" r="0.3108550677089432" fill="white" opacity="0.8792323290865458"/><circle cx="553.3666987140313" cy="18.054758372342736" r="0.20416503337756697" fill="white" opacity="0.4416901316077584"/><circle cx="136.78564729608826" cy="309.25228378164473" r="0.7664877979467717" fill="white" opacity="0.7969908217170203"/><circle cx="183.89601262632863" cy="324.74483284701495" r="0.5192049476278968" fill="white" opacity="0.3868665534399136"/><circle cx="346.2880452544697" cy="161.4362595859966" r="0.4508935182401598" fill="white" opacity="0.431175507777652"/><circle cx="150.06829000755852" cy="70.55786517546163" r="1.3247020618769425" fill="white" opacity="0.6305926373886155"/><circle cx="203.60641567499835" cy="152.20899075499574" r="1.2429215264739333" fill="white" opacity="0.17242462384551493"/><circle cx="315.05294920250384" cy="8.61303698756676" r="0.9008751479737838" fill="white" opacity="0.8064989232640885"/><circle cx="572.977721905211" cy="114.17486386359252" r="1.078676170517142" fill="white" opacity="0.59513454951635"/><circle cx="574.8912422767685" cy="161.35359893684347" r="0.5056426359838401" fill="white" opacity="0.11842503894754586"/><circle cx="550.3194779169045" cy="134.03517473410164" r="0.742282492500193" fill="white" opacity="0.9631712247737136"/><circle cx="581.838912535436" cy="175.64186905363223" r="1.3931613865357284" fill="white" opacity="0.33130154290645253"/><circle cx="544.3873280344656" cy="152.58407338931016" r="1.2061683047333298" fill="white" opacity="0.4389666101107257"/><circle cx="448.0443190401564" cy="210.78709963162848" r="1.2980929216332369" fill="white" opacity="0.36240876683020984"/><circle cx="359.9605509602892" cy="84.03871874410763" r="1.418592047152182" fill="white" opacity="0.37845667136411154"/><circle cx="608.9601815328926" cy="185.65543338685842" r="0.884510781745405" fill="white" opacity="0.9989709767065833"/><circle cx="358.6875064528204" cy="188.92004200393617" r="0.8281018988464984" fill="white" opacity="0.6219094489769816"/><circle cx="685.7372079258843" cy="287.2188606025268" r="0.5052896002965809" fill="white" opacity="0.11683124672347511"/><circle cx="12.076213970038552" cy="294.40238615361346" r="0.2236847798366124" fill="white" opacity="0.011085982260298666"/><circle cx="229.0913036869064" cy="49.96867017074691" r="1.2540447838298272" fill="white" opacity="0.9654082072266685"/><circle cx="422.76388645724745" cy="317.69382055339696" r="0.15908530180983116" fill="white" opacity="0.8510791227104233"/><circle cx="492.7339909285212" cy="203.5941623320439" r="1.449578757904104" fill="white" opacity="0.9144730035785973"/><circle cx="370.8186551325566" cy="63.45821973308834" r="0.5016242364066597" fill="white" opacity="0.9220168090924694"/><circle cx="230.3703249005828" cy="273.27226950491735" r="0.0399546417477048" fill="white" opacity="0.39878638208876405"/><circle cx="480.9669469243534" cy="341.766817358737" r="0.7799178846046942" fill="white" opacity="0.8009178317646046"/><circle cx="130.87152315279303" cy="174.2113046229282" r="0.0783490012635718" fill="white" opacity="0.036006271625653063"/>
 
   <!-- Perspective Floor Grid (Simulated) -->
   <g transform="translate(0, 300) scale(1, 0.5)">
@@ -93,47 +93,21 @@
   <!-- The Buildings -->
   <g transform="translate(0, 50)"> 
     
-            <a href="https://github.com/M-Mifra/YieldSweep" target="_blank">
+            <a href="https://github.com/M-Mifra/repo-verse" target="_blank">
                 <g class="building" opacity="0">
                      <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0s" fill="freeze" />
                      
                      <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="400" cy="290.0958333333333" rx="14.287500000000001" ry="7.620000000000001" fill="black" opacity="0.4" blur="2" />
+                     <ellipse cx="400" cy="292.00083333333333" rx="20.0025" ry="10.668000000000001" fill="black" opacity="0.4" blur="2" />
 
                      <!-- Structure -->
-                     <path d="M 390.475 270.0958333333333 l 0 20 l 9.525 4.7625 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 409.525 270.0958333333333 l 0 20 l -9.525 4.7625 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 400 265.3333333333333 l 9.525 4.7625 l -9.525 4.7625 l -9.525 -4.7625 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
+                     <path d="M 386.665 272.00083333333333 l 0 20 l 13.335 6.6675 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 413.335 272.00083333333333 l 0 20 l -13.335 6.6675 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 400 265.3333333333333 l 13.335 6.6675 l -13.335 6.6675 l -13.335 -6.6675 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
                      
                      <!-- Glow Edge -->
-                     <path d="M 390.475 270.0958333333333 l 0 20 l 9.525 4.7625 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 409.525 270.0958333333333 l 0 20 l -9.525 4.7625 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-
-                     <!-- Details -->
-                     
-                     
-
-                     <!-- Tooltip -->
-                     <title>YieldSweep (TypeScript) | Stars: 0</title>
-                </g>
-            </a>
-        
-
-            <a href="https://github.com/M-Mifra/repo-verse" target="_blank">
-                <g class="building" opacity="0">
-                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.05s" fill="freeze" />
-                     
-                     <!-- Shadow (Simple Ellipse approx) -->
-                     <ellipse cx="424" cy="303.81333333333333" rx="19.439999999999998" ry="10.368" fill="black" opacity="0.4" blur="2" />
-
-                     <!-- Structure -->
-                     <path d="M 411.04 283.81333333333333 l 0 20 l 12.959999999999999 6.4799999999999995 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
-                     <path d="M 436.96 283.81333333333333 l 0 20 l -12.959999999999999 6.4799999999999995 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
-                     <path d="M 424 277.3333333333333 l 12.959999999999999 6.4799999999999995 l -12.959999999999999 6.4799999999999995 l -12.959999999999999 -6.4799999999999995 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
-                     
-                     <!-- Glow Edge -->
-                     <path d="M 411.04 283.81333333333333 l 0 20 l 12.959999999999999 6.4799999999999995 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
-                     <path d="M 436.96 283.81333333333333 l 0 20 l -12.959999999999999 6.4799999999999995 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 386.665 272.00083333333333 l 0 20 l 13.335 6.6675 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 413.335 272.00083333333333 l 0 20 l -13.335 6.6675 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
 
                      <!-- Details -->
                      
@@ -141,6 +115,32 @@
 
                      <!-- Tooltip -->
                      <title>repo-verse (TypeScript) | Stars: 0</title>
+                </g>
+            </a>
+        
+
+            <a href="https://github.com/M-Mifra/YieldSweep" target="_blank">
+                <g class="building" opacity="0">
+                     <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.05s" fill="freeze" />
+                     
+                     <!-- Shadow (Simple Ellipse approx) -->
+                     <ellipse cx="424" cy="302.0958333333333" rx="14.287500000000001" ry="7.620000000000001" fill="black" opacity="0.4" blur="2" />
+
+                     <!-- Structure -->
+                     <path d="M 414.475 282.0958333333333 l 0 20 l 9.525 4.7625 l 0 -20 z" fill="url(#gradLeft-focused)" stroke="none" />
+                     <path d="M 433.525 282.0958333333333 l 0 20 l -9.525 4.7625 l 0 -20 z" fill="url(#gradRight-focused)" stroke="none" />
+                     <path d="M 424 277.3333333333333 l 9.525 4.7625 l -9.525 4.7625 l -9.525 -4.7625 z" fill="#E0FFF1" fill-opacity="0.9" stroke="none" />
+                     
+                     <!-- Glow Edge -->
+                     <path d="M 414.475 282.0958333333333 l 0 20 l 9.525 4.7625 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+                     <path d="M 433.525 282.0958333333333 l 0 20 l -9.525 4.7625 l 0 -20 z" fill="none" stroke="#00FF94" stroke-width="0.5" opacity="0.5" />
+
+                     <!-- Details -->
+                     
+                     
+
+                     <!-- Tooltip -->
+                     <title>YieldSweep (TypeScript) | Stars: 0</title>
                 </g>
             </a>
         
